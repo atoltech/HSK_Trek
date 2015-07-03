@@ -1,3 +1,5 @@
-#[atoltech HSK] www.atoltech.github.io/HSK_Trek
+# [ATOLTECH](http://atoltech.com/) - [HSK TREKS](http://http://atoltech.com/HSK_Trek/)
 
-demo for HSK
+demo website for HSK
+
+## Made by Jay and Pranit
